@@ -30,7 +30,7 @@ I have a proven track record of creating robust and scalable web applications th
 <h3 align="left">Front-end</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img height="33" src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,react,sass,vue,wordpress" />
+    <img height="35" src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,react,sass,vue,wordpress" />
   </a>
 </p>
  <div>
@@ -39,25 +39,25 @@ I have a proven track record of creating robust and scalable web applications th
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img height="33" src="https://skillicons.dev/icons?i=dotnet,cs,express,laravel,nodejs,php,py,django" />
+    <img height="35" src="https://skillicons.dev/icons?i=dotnet,cs,express,laravel,nodejs,php,py,django" />
   </a>
 </p>
 <h3 align="left">Mobile App</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img height="33" src="https://skillicons.dev/icons?i=androidstudio,react,flutter,swift" />
+    <img height="35" src="https://skillicons.dev/icons?i=androidstudio,react,flutter,swift" />
   </a>
 </p>
 <h3 align="left">DataBase</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img height="33" src="https://skillicons.dev/icons?i=firebase,graphql,mongodb,mysql,postgres,sqlite" />
+    <img height="35" src="https://skillicons.dev/icons?i=firebase,graphql,mongodb,mysql,postgres,sqlite" />
   </a>
 </p>
 <h3 align="left">Tools</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img height="33" src="https://skillicons.dev/icons?i=azure,docker,figma,photoshop,github,gitlab,nginx,postman,visualstudio,vscode,xd" />
+    <img height="35" src="https://skillicons.dev/icons?i=azure,docker,figma,photoshop,github,gitlab,nginx,postman,visualstudio,vscode,xd" />
   </a>
 </p>
 
