@@ -33,15 +33,15 @@ I have a proven track record of creating robust and scalable web applications th
     <img height="33" src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,react,sass,vue,wordpress" />
   </a>
 </p>
+ <div>
+  <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="420" height="360" />
+</div>
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img height="33" src="https://skillicons.dev/icons?i=dotnet,cs,express,laravel,nodejs,php,py,django" />
   </a>
 </p>
- <div>
-  <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="420" height="360" />
-</div>
 <h3 align="left">Mobile App</h3>
 <p align="left">
   <a href="https://skillicons.dev">
