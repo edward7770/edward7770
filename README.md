@@ -20,7 +20,7 @@ I have a proven track record of creating robust and scalable web applications th
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
     <a href="https://discordapp.com/users/1192683171104432141">
-    <img src="https://img.shields.io/badge/discord me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/discord me-%231DA1F3.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
  <div>
