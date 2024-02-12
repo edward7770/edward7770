@@ -24,7 +24,7 @@ I have a proven track record of creating robust and scalable web applications th
   </a>&nbsp;&nbsp;
 </p>
  <div>
-  <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="450" height="400" />
+  <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="400" />
 </div>
 
 ## Languages & Tools
@@ -38,7 +38,7 @@ I have a proven track record of creating robust and scalable web applications th
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img height="33" src="https://skillicons.dev/icons?i=dotnet,cs,express,flask,laravel,nextjs,nestjs,nodejs,php,py,symfony,wordpress,django,fastapi" />
+    <img height="33" src="https://skillicons.dev/icons?i=dotnet,cs,express,flask,laravel,nextjs,nodejs,php,py,wordpress,django" />
   </a>
 </p>
 <h3 align="left">Mobile App</h3>
