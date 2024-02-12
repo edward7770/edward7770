@@ -10,16 +10,16 @@ I have a proven track record of creating robust and scalable web applications th
 ## Connect with me
 
 <p align='center'>
-  <a href="https://t.me/dinosaur0324">
+  <a href="https://t.me/edward703">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/Um0qle4gZwlh">
+  <a href="https://join.skype.com/invite/cn3Zu7bTfgsV">
     <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://gmail.com/mickey951112@gmail.com">
+  <a href="mailto:edwardthomas7770@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-    <a href="https://discordapp.com/users/akira1112">
+    <a href="https://discordapp.com/users/1192683171104432141">
     <img src="https://img.shields.io/badge/discord me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
@@ -33,16 +33,16 @@ I have a proven track record of creating robust and scalable web applications th
 <h3 align="left">Front-end</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,react,sass,vue" />
+    <img height="20" src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,react,sass,vue" />
   </a>
 </p>
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,express,flask,laravel,nextjs,nestjs,nodejs,php,py,symfony,wordpress,django,fastapi" />
+    <img height="20" src="https://skillicons.dev/icons?i=dotnet,cs,express,flask,laravel,nextjs,nestjs,nodejs,php,py,symfony,wordpress,django,fastapi" />
   </a>
 </p>
-<h3 align="left">Mobile</h3>
+<h3 align="left">Mobile App</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter,swift" />
