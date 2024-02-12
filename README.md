@@ -1,5 +1,8 @@
-## Welcome to my Github!
+## Welcome to my Github Profile! 👋
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Self-Learner;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 <p>Hello! I'm Daniel, an passionate software engineer.
 
 Software design and development have always been my biggest passion, because of its ability to transform idea into reality with the essence of efficiency! I particularly find it purposeful therefore enjoyable when learning and building with different brains as a team towards a shared vision. I am eager to use my technological skills and creativity to provide service/product to fill in the gaps in this society and make this world a better place.</p>
