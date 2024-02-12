@@ -23,9 +23,7 @@ I have a proven track record of creating robust and scalable web applications th
     <img src="https://img.shields.io/badge/discord me-%231DA1F3.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
- <div>
-  <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="420" height="360" />
-</div>
+
 
 ## Languages & Tools
 
@@ -59,3 +57,6 @@ I have a proven track record of creating robust and scalable web applications th
     <img height="33" src="https://skillicons.dev/icons?i=azure,docker,figma,photoshop,github,gitlab,nginx,postman,visualstudio,vscode,xd" />
   </a>
 </p>
+ <div>
+  <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="420" height="360" />
+</div>
