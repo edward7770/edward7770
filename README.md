@@ -25,7 +25,7 @@ I have a proven track record of creating robust and scalable web applications th
 </p>
 
  <div>
-  <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="400" height="320" />
 </div>
 
 ## Languages & Tools
@@ -33,30 +33,30 @@ I have a proven track record of creating robust and scalable web applications th
 <h3 align="left">Front-end</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img height="20" src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,react,sass,vue" />
+    <img height="30" src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,react,sass,vue" />
   </a>
 </p>
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img height="20" src="https://skillicons.dev/icons?i=dotnet,cs,express,flask,laravel,nextjs,nestjs,nodejs,php,py,symfony,wordpress,django,fastapi" />
+    <img height="30" src="https://skillicons.dev/icons?i=dotnet,cs,express,flask,laravel,nextjs,nestjs,nodejs,php,py,symfony,wordpress,django,fastapi" />
   </a>
 </p>
 <h3 align="left">Mobile App</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter,swift" />
+    <img height="30" src="https://skillicons.dev/icons?i=androidstudio,react,flutter,swift" />
   </a>
 </p>
 <h3 align="left">DataBase</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,graphql,mongodb,mysql,postgres,sqlite" />
+    <img height="30" src="https://skillicons.dev/icons?i=firebase,graphql,mongodb,mysql,postgres,sqlite" />
   </a>
 </p>
 <h3 align="left">Tools</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,docker,figma,photoshop,github,gitlab,nginx,postman,visualstudio,vscode,xd" />
+    <img height="30" src="https://skillicons.dev/icons?i=azure,docker,figma,photoshop,github,gitlab,nginx,postman,visualstudio,vscode,xd" />
   </a>
 </p>
