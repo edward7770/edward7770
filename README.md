@@ -24,7 +24,7 @@ I have a proven track record of creating robust and scalable web applications th
   </a>&nbsp;&nbsp;
 </p>
  <div>
-  <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="460" height="400" />
+  <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="450" height="400" />
 </div>
 
 ## Languages & Tools
