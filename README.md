@@ -5,7 +5,7 @@
 </p>
 <p><b>Hello! I'm Edward, an passionate full-stack engineer.</b>
 I have a proven track record of creating robust and scalable web applications that meet the needs of both users and stakeholders.  My ability to adapt to new technologies and methodologies, coupled with my strong problem-solving skills, makes me a valuable asset in delivering high-quality, innovative software solutions.  I always strive to deliver projects that exceed expectations of clients and give satisfaction to clients about any kinds of projects.</p>
-<p>✨ Let's bring your ideas to life and take your business to new heights.</p>
+<p>✨ Let's bring your ideas to life and take your business to new heights!</p>
 
 ## Connect with me
 
