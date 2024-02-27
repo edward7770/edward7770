@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Self-Learner;Senior%20Fullstack%20Developer&center=true&width=500&height=50"></a>
 </p>
 <p><b>Hello! I'm Edward, an passionate full-stack engineer.</b>
-I have a proven track record of creating robust and scalable web applications that meet the needs of both users and stakeholders.  My ability to adapt to new technologies and methodologies, coupled with my strong problem-solving skills, makes me a valuable asset in delivering high-quality, innovative software solutions.  I always strive to deliver projects that exceed expectations of clients and give satisfaction to clients about any kinds of projects.</p>
+I have a proven track record of creating robust and scalable web applications that meet the needs of both users and stakeholders.  My ability to adapt to new technologies, coupled with my strong problem-solving skills, makes me a valuable asset in delivering high-quality, innovative software solutions.  I always strive to deliver projects that exceed expectations of clients and give satisfaction to clients about any kinds of projects.</p>
 <p>✨ Let's bring your ideas to life and take your business to new heights!</p>
 
 ## Connect with me
