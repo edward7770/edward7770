@@ -30,7 +30,7 @@ I have a proven track record of creating robust and scalable web applications th
 <h3 align="left">Front-end</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img height="35" src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,react,sass,vue,wordpress" />
+    <img height="35" src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,tailwind,threejs,js,ts,react,sass,vue" />
   </a>
 </p>
  <div>
@@ -39,7 +39,7 @@ I have a proven track record of creating robust and scalable web applications th
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img height="35" src="https://skillicons.dev/icons?i=dotnet,cs,express,laravel,nodejs,php,py,django" />
+    <img height="35" src="https://skillicons.dev/icons?i=dotnet,cs,express,laravel,nodejs,php,py" />
   </a>
 </p>
 <h3 align="left">Mobile App</h3>
@@ -57,7 +57,7 @@ I have a proven track record of creating robust and scalable web applications th
 <h3 align="left">Tools</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img height="35" src="https://skillicons.dev/icons?i=azure,docker,figma,photoshop,github,gitlab,nginx,postman,visualstudio,vscode,xd" />
+    <img height="35" src="https://skillicons.dev/icons?i=azure,docker,figma,aws,github,gitlab,postman,visualstudio,vscode" />
   </a>
 </p>
 
