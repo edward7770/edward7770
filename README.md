@@ -7,7 +7,7 @@
 I have a proven track record of creating robust and scalable web applications that meet the needs of both users and stakeholders.  My ability to adapt to new technologies, coupled with my strong problem-solving skills, makes me a valuable asset in delivering high-quality, innovative software solutions.  I always strive to deliver projects that exceed expectations of clients and give satisfaction to clients about any kinds of projects.</p>
 <p>✨ Let's bring your ideas to life and take your business to new heights!</p>
 
-## Connect with me
+## Connect with me(feel free to react out me)
 
 <p align='center'>
   <a href="https://t.me/edward703">
