@@ -5,9 +5,9 @@
 </p>
 <p><b>Hello! I'm Edward, an passionate full-stack engineer.</b>
 I have a proven track record of creating robust and scalable web applications that meet the needs of both users and stakeholders.  My ability to adapt to new technologies, coupled with my strong problem-solving skills, makes me a valuable asset in delivering high-quality, innovative software solutions.  I always strive to deliver projects that exceed expectations of clients and give satisfaction to clients about any kinds of projects.</p>
-<p>✨ Let's bring your ideas to life and take your business to new heights!</p>
+<p>✨ Let's bring your ideas to life and take your business to new heights!✨</p>
 
-## Connect with me(feel free to react out me)
+## Connect with me
 
 <p align='center'>
   <a href="https://t.me/edward703">
@@ -23,9 +23,9 @@ I have a proven track record of creating robust and scalable web applications th
     <img src="https://img.shields.io/badge/discord me-%231DA1F3.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
+<p align="center">Feel free to react out me!</p>
 
-
-## Languages & Tools
+## Skills & Languages
 
 <h3 align="left">Front-end</h3>
 <p align="left">
@@ -51,7 +51,7 @@ I have a proven track record of creating robust and scalable web applications th
 <h3 align="left">DataBase</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img height="35" src="https://skillicons.dev/icons?i=firebase,graphql,mongodb,mysql,postgres,sqlite" />
+    <img height="35" src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,sqlite" />
   </a>
 </p>
 <h3 align="left">Tools</h3>
