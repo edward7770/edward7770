@@ -23,7 +23,7 @@ I have a proven track record of creating robust and scalable web applications th
     <img src="https://img.shields.io/badge/discord me-%231DA1F3.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
-<p align="center">Feel free to react out me!</p>
+<p align="center"><b>Feel free to react out me!</b></p>
 
 ## Skills & Languages
 
