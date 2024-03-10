@@ -10,7 +10,7 @@ I have a proven track record of creating robust and scalable web applications th
 ## Connect with me
 
 <p align='center'>
-  <a href="https://t.me/edward703">
+  <a href="https://t.me/dev77770">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://join.skype.com/invite/cn3Zu7bTfgsV">
