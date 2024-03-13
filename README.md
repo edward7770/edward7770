@@ -19,8 +19,8 @@ I have a proven track record of creating robust and scalable web applications th
   <a href="mailto:edwardthomas7770@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-    <a href="https://discordapp.com/users/1192683171104432141">
-    <img src="https://img.shields.io/badge/discord me-%231DA1F3.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+    <a href="https://www.facebook.com/profile.php?id=61555996817955">
+    <img src="https://img.shields.io/badge/Facebook-%231DA1F3.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
 
