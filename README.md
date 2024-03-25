@@ -7,6 +7,22 @@
 I have a proven track record of creating robust and scalable web applications that meet the needs of both users and stakeholders.  My ability to adapt to new technologies, coupled with my strong problem-solving skills, makes me a valuable asset in delivering high-quality, innovative software solutions.  I always strive to deliver projects that exceed expectations of clients and give satisfaction to clients about any kinds of projects.</p>
 <p>✨ Let's bring your ideas to life and take your business to new heights!✨</p>
 
+## Connect with me
+<p align='center'>
+  <a href="https://t.me/dev77770">
+    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://join.skype.com/invite/cn3Zu7bTfgsV">
+    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:edwardthomas7770@gmail.com">
+    <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/edwardthomas7770">
+    <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
 ## Skills & Languages
 
 <h3 align="left">Front-end</h3>
