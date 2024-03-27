@@ -12,8 +12,8 @@ I have a proven track record of creating robust and scalable web applications th
   <a href="https://t.me/dev77770">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/cn3Zu7bTfgsV">
-    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
+  <a href="https://www.facebook.com/profile.php?id=61555996817955">
+    <img src="https://img.shields.io/badge/facebook-%231DA1F3.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:edwardthomas7770@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
