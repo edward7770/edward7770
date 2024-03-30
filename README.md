@@ -9,9 +9,6 @@ I have a proven track record of creating robust and scalable web applications th
 
 ## Connect with me
 <p align='center'>
-  <a href="https://t.me/dev77770">
-    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=61555996817955">
     <img src="https://img.shields.io/badge/facebook-%231DA1F3.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -20,6 +17,9 @@ I have a proven track record of creating robust and scalable web applications th
   </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/edwardthomas7770">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://t.me/dev77770">
+    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
 
